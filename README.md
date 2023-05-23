@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning  SQL, Python
 - 💞️ I’m looking to collaborate on SQL,excel and power bi based projects
 - 📫 Reach me via susanwanja2090@gmail.com
+- I am am a data alchemist. I turn complex data into strategic assets
 
 <!---
 wanja-susan/wanja-susan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
