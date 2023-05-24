@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyticts
 - 🌱 I’m currently learning  SQL, Python
 - 💞️ I’m looking to collaborate on SQL,excel and power bi based projects
-- 📫 Reach me via susanwanja2090@gmail.com
+- 📫 Reach me via mswanjakariuki@gmail.com
 - I am am a data alchemist. I turn complex data into strategic assets
 
 <!---
