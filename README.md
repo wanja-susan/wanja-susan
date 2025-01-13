@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mswanjakariuki@gmail.com**
 
-- ⚡ Fun fact **I am a data alchemist.**
+- ⚡ A link to my portfolio https://wanja-susan.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
