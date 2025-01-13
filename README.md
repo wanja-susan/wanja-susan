@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanja-susan&label=Profile%20views&color=0e75b6&style=flat" alt="wanja-susan" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
 - 👯 I’m looking to collaborate on **Data analysis based projects**
 
 - 💬 Ask me about **SQL, Excel, Power BI**
