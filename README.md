@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **SQL, Excel, Power BI**
 
-- 📫 How to reach me **mswanjakariuki@gmail.com**
+- 📫 How to reach me **susanwanja2090@gmail.com**
 
 - ⚡ A link to my portfolio https://wanja-susan.github.io/portfolio/
 
