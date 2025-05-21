@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wanja-susan&label=Profile%20views&color=0e75b6&style=flat" alt="wanja-susan" /> </p>
 
-- 👯 I’m looking to collaborate on **Data analysis based projects**
+-  I’m looking to collaborate on **Data analysis based projects**
 
-- 💬 Ask me about **SQL, Excel, Power BI**
+-  Ask me about **All things Data| SQL| Excel| Power BI| Python**
 
-- 📫 How to reach me **mswanjakariuki@gmail.com**
+-  How to reach me **mswanjakariuki@gmail.com**
 
-- ⚡ A link to my portfolio https://wanja-susan.github.io/portfolio/
+-  A link to my portfolio https://wanja-susan.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
