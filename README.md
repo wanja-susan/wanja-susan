@@ -10,7 +10,7 @@
 
 -  How to reach me **mswanjakariuki@gmail.com**
 
--  A link to my portfolio https://wanja-susan.github.io/portfolio/
+-  A link to my portfolio [https://wanja-susan.github.io/portfolio/](https://wanja-susan.github.io/portfolio-site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
